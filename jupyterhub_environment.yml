@@ -45,3 +45,5 @@ dependencies:
   - memory_profiler
   - plotly
   - cufflinks
+  - random
+  - dm_test
